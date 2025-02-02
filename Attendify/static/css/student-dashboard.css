@@ -1,0 +1,31 @@
+body {
+    background-color: #f0f8ff;
+}
+
+.navbar {
+    background-color: #007bff; /* Primary color for the navbar */
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: #ffffff; /* White background for cards */
+}
+
+.card-title {
+    color: #007bff; /* Primary color for titles */
+}
+
+.card-text {
+    color: #555; /* Darker text for descriptions */
+}
+
+.btn-primary {
+    background-color: #28a745; /* Custom button color */
+    border-color: #28a745; /* Border color */
+}
+
+.btn-primary:hover {
+    background-color: #218838; /* Darker shade on hover */
+}

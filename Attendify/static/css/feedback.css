@@ -1,0 +1,14 @@
+body {
+    background-color: #f0f8ff;
+}
+
+.navbar {
+    background-color: #007bff; /* Primary color for the navbar */
+}
+
+form {
+    background-color: #ffffff; /* White background for the form */
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}

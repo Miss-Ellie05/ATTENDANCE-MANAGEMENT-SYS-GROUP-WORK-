@@ -1,0 +1,21 @@
+body {
+    background-color: #f0f8ff;
+}
+
+.navbar {
+    background-color: #007bff; /* Primary color for the navbar */
+}
+
+.table {
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.table th {
+    background-color: #007bff; /* Primary color for table header */
+    color: white;
+}
+
+.table td {
+    color: #555; /* Darker text for table cells */
+}

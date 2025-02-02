@@ -1,0 +1,26 @@
+body {
+    background-color: #f0f8ff;
+    background-image: url('path/to/your/background-image.jpg'); /* Add your background image path here */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.navbar {
+    background-color: #007bff; /* Primary color for the navbar */
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.btn-custom {
+    background-color: #28a745; /* Custom button color */
+    color: white;
+}
+
+.btn-custom:hover {
+    background-color: #218838; /* Darker shade on hover */
+}
